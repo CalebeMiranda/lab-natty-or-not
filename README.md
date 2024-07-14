@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Minha descrição Aesthethic
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pedi para o Leonardo.Ai fazer um retrato meu kkkkkkk
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo.AI fez o retrato e o prompt foi gerado pelo chat gpt
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o chat gerar uma descrição com base em uma foto minha e depois mandei a foto e a descrição para o Leonardo.AI
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Default_Um_jovem_programador_de_23_anos_com_cabelo_loiro_Ele_e_1](https://github.com/user-attachments/assets/d931d0fa-0f45-47a6-bf14-707cf4c02242)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
