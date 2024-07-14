@@ -1,3 +1,4 @@
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
@@ -19,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
+
 # Minha descrição Aesthethic
 
 ## 📒 Descrição
@@ -32,12 +33,13 @@ Leonardo.AI fez o retrato e o prompt foi gerado pelo chat gpt
 Pedi para o chat gerar uma descrição com base em uma foto minha e depois mandei a foto e a descrição para o Leonardo.AI
 
 ## 🚀 Resultados
-![Default_Um_jovem_programador_de_23_anos_com_cabelo_loiro_Ele_e_1](https://github.com/user-attachments/assets/d931d0fa-0f45-47a6-bf14-707cf4c02242)
+![Eu](https://github.com/user-attachments/assets/39da5a1b-bd8c-4d8a-8912-18048a3c8e6a)
+
 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
